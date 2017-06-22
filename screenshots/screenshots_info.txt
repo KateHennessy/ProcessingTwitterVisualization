@@ -1,0 +1,1 @@
+This is the folder screenshots are saved to by default - if removed please ensure to remove references in code. 
